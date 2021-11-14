@@ -105,51 +105,62 @@
             "price": 14,
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836850/guappjolotas/tamales/Property_1_pasas_cleaq2.svg",
             "inv": 200,
-            "id": 11
+            "id": 14
         }
     ],
     "sabores": [
         {
             "sabor": "Verde",
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836847/guappjolotas/sabores/Property_1_verde_mek95v.svg"
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836847/guappjolotas/sabores/Property_1_verde_mek95v.svg",
+            "id": 15
         },
         {
             "sabor": "Mole",
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836849/guappjolotas/sabores/Property_1_mole_fuheii.svg"
+            ,
+            "id": 16
         },
         {
             "sabor": "Rajas",
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836848/guappjolotas/sabores/Property_1_rajas_xsqby1.svg"
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836848/guappjolotas/sabores/Property_1_rajas_xsqby1.svg",
+            "id": 17
         },
         {
             "sabor": "Piña",
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836849/guappjolotas/sabores/Property_1_pin%CC%83a_tnbgcd.svg"
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836849/guappjolotas/sabores/Property_1_pin%CC%83a_tnbgcd.svg",
+            "id": 18
         },
         {
             "sabor": "Pasas",
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836847/guappjolotas/sabores/Property_1_pasas_r0ajpd.svg"
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836847/guappjolotas/sabores/Property_1_pasas_r0ajpd.svg",
+            "id": 19
         },
         {
             "sabor": "Pasas",
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836847/guappjolotas/sabores/Property_1_guayaba_zawndi.svg"
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836847/guappjolotas/sabores/Property_1_guayaba_zawndi.svg",
+            "id": 20
         }
     ],
     "saboresBebidas": [
         {
             "sabor": "Champurrado",
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836850/guappjolotas/sabores/Property_1_champurrado_bcpsce.svg"
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836850/guappjolotas/sabores/Property_1_champurrado_bcpsce.svg",
+            "id": 21
         },
         {
             "sabor": "Arroz con Leche",
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836848/guappjolotas/sabores/Property_1_arroz_con_leche_yrpuio.svg"
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836848/guappjolotas/sabores/Property_1_arroz_con_leche_yrpuio.svg",
+            "id": 22
         },
         {
             "sabor": "Chocolate",
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836850/guappjolotas/sabores/Property_1_chocolate_jrgqlu.svg"
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836850/guappjolotas/sabores/Property_1_chocolate_jrgqlu.svg",
+            "id": 23
         },
         {
             "sabor": "Café",
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836851/guappjolotas/sabores/Property_1_cafe_sd0psv.svg"
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836851/guappjolotas/sabores/Property_1_cafe_sd0psv.svg",
+            "id": 24
         }
     ]
 }
