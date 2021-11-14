@@ -1,0 +1,99 @@
+{
+    "guajolotas": [
+        {
+            "type": "Verde",
+            "price": 25,
+            "fullType": "Guajolota de Tamal Verde",
+            "inv": 200,
+            "id": 1
+        },
+        {
+            "type": "Mole",
+            "price": 25,
+            "fullType": "Guajolota de Tamal de Mole",
+            "inv": 200,
+            "id": 2
+        },
+        {
+            "type": "Guayaba",
+            "price": 25,
+            "fullType": "Guajolota de Tamal de Guayaba",
+            "inv": 200,
+            "id": 3
+        },
+        {
+            "type": "Piña",
+            "price": 25,
+            "fullType": "Guajolota de Tamal de Piña",
+            "inv": 200,
+            "id": 4
+        },
+        {
+            "type": "Pasas",
+            "price": 25,
+            "fullType": "Guajolota de Tamal de Pasas",
+            "inv": 200,
+            "id": 5
+        }
+    ],
+    "bebidas": [
+        {
+            "type": "Champurrado",
+            "price": 12,
+            "inv": 200,
+            "id": 6
+        },
+        {
+            "type": "Atole de Arroz con Leche",
+            "price": 12,
+            "inv": 200,
+            "id": 7
+        },
+        {
+            "type": "Chocolate Caliente",
+            "price": 12,
+            "inv": 200,
+            "id": 8
+        },
+        {
+            "type": "Café Negro",
+            "price": 12,
+            "inv": 200,
+            "id": 9
+        }
+    ],
+    "tamales": [
+        {
+            "type": "Tamal Verde",
+            "price": 14,
+            "inv": 200,
+            "id": 10
+        },
+        {
+            "type": "Tamal de Mole",
+            "price": 14,
+            "inv": 200,
+            "id": 11
+        },
+        {
+            "type": "Tamal de Guayaba",
+            "price": 14,
+            "inv": 200,
+            "id": 12
+        },
+        {
+            "type": "Tamal de Piña",
+            "price": 14,
+            "inv": 200,
+            "id": 13
+        },
+        {
+            "type": "Tamal de Pasas",
+            "price": 14,
+            "inv": 200,
+            "id": 11
+        }
+
+    ]
+     
+}
