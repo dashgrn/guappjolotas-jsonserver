@@ -6,6 +6,7 @@
             "fullType": "Guajolota de Tamal Verde",
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836844/guappjolotas/guajolotas/Property_1_verde_jhwa2d.svg",
             "inv": 200,
+            "category": "guajolotas",
             "id": 1
         },
         {
@@ -14,6 +15,7 @@
             "fullType": "Guajolota de Tamal de Mole",
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836846/guappjolotas/guajolotas/Property_1_mole_anxxww.svg",
             "inv": 200,
+            "category": "guajolotas",
             "id": 2
         },
         {
@@ -22,6 +24,7 @@
             "fullType": "Guajolota de Tamal de Guayaba",
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836846/guappjolotas/guajolotas/Property_1_guayaba_z9xdpi.svg",
             "inv": 200,
+            "category": "guajolotas",
             "id": 3
         },
         {
@@ -30,6 +33,7 @@
             "fullType": "Guajolota de Tamal de Piña",
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836847/guappjolotas/guajolotas/Property_1_pin%CC%83a_kmzvvs.svg",
             "inv": 200,
+            "category": "guajolotas",
             "id": 4
         },
         {
@@ -38,6 +42,7 @@
             "fullType": "Guajolota de Tamal de Pasas",
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836844/guappjolotas/guajolotas/Property_1_pasas_muc5vc.svg",
             "inv": 200,
+            "category": "guajolotas",
             "id": 5
         }
     ],
@@ -47,6 +52,7 @@
             "price": 12,
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836844/guappjolotas/bebidas/Property_1_champurrado_a3bztk.svg",
             "inv": 200,
+            "category": "bebidas",
             "id": 6
         },
         {
@@ -54,6 +60,7 @@
             "price": 12,
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836844/guappjolotas/bebidas/Property_1_arroz_oeamqy.svg",
             "inv": 200,
+            "category": "bebidas",
             "id": 7
         },
         {
@@ -61,6 +68,7 @@
             "price": 12,
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836844/guappjolotas/bebidas/Property_1_chocolate_bsefhs.svg",
             "inv": 200,
+            "category": "bebidas",
             "id": 8
         },
         {
@@ -68,6 +76,7 @@
             "price": 12,
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836844/guappjolotas/bebidas/Property_1_cafe_gy7jnv.svg",
             "inv": 200,
+            "category": "bebidas",
             "id": 9
         }
     ],
@@ -77,6 +86,7 @@
             "price": 14,
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836850/guappjolotas/tamales/Property_1_verde_dzoslw.svg",
             "inv": 200,
+            "category": "tamales",
             "id": 10
         },
         {
@@ -84,6 +94,7 @@
             "price": 14,
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836853/guappjolotas/tamales/Property_1_mole_knzh0s.svg",
             "inv": 200,
+            "category": "tamales",
             "id": 11
         },
         {
@@ -91,6 +102,7 @@
             "price": 14,
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836851/guappjolotas/tamales/Property_1_guayaba_vc8ipp.svg",
             "inv": 200,
+            "category": "tamales",
             "id": 12
         },
         {
@@ -98,6 +110,7 @@
             "price": 14,
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836853/guappjolotas/tamales/Property_1_pin%CC%83a_yi5o93.svg",
             "inv": 200,
+            "category": "tamales",
             "id": 13
         },
         {
@@ -105,6 +118,7 @@
             "price": 14,
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836850/guappjolotas/tamales/Property_1_pasas_cleaq2.svg",
             "inv": 200,
+            "category": "tamales",
             "id": 14
         }
     ],
