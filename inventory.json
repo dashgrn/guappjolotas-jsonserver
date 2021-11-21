@@ -4,7 +4,7 @@
             "type": "Verde",
             "price": 25,
             "fullType": "Guajolota de Tamal Verde",
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637453396/guappjolotas/guajolotas/guajolota-verde_fjodzp.png",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637454329/guappjolotas/guajolotas/G-VERDE_eamtlq.svg",
             "inv": 200,
             "category": "guajolotas",
             "id": 1
@@ -13,7 +13,7 @@
             "type": "Mole",
             "price": 25,
             "fullType": "Guajolota de Tamal de Mole",
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637453396/guappjolotas/guajolotas/guajolota-mole_z8zsge.png",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637454329/guappjolotas/guajolotas/G-MOLE_wfxwdb.svg",
             "inv": 200,
             "category": "guajolotas",
             "id": 2
@@ -22,7 +22,7 @@
             "type": "Guayaba",
             "price": 25,
             "fullType": "Guajolota de Tamal de Guayaba",
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637453397/guappjolotas/guajolotas/guajolota-guayaba_wiftzv.png",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637454329/guappjolotas/guajolotas/G-GUAYABA_uygxth.svg",
             "inv": 200,
             "category": "guajolotas",
             "id": 3
@@ -31,7 +31,7 @@
             "type": "Piña",
             "price": 25,
             "fullType": "Guajolota de Tamal de Piña",
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637453396/guappjolotas/guajolotas/guajolota-pi%C3%B1a_nmiv4f.png",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637454329/guappjolotas/guajolotas/G-PI%C3%91A_dnh2a8.svg",
             "inv": 200,
             "category": "guajolotas",
             "id": 4
@@ -40,7 +40,7 @@
             "type": "Pasas",
             "price": 25,
             "fullType": "Guajolota de Tamal de Pasas",
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637453396/guappjolotas/guajolotas/guajolota-pasas_giysdq.png",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637454329/guappjolotas/guajolotas/G-PASAS_rk0y7k.svg",
             "inv": 200,
             "category": "guajolotas",
             "id": 5
@@ -58,7 +58,7 @@
         {
             "type": "Atole de Arroz con Leche",
             "price": 12,
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637453512/guappjolotas/bebidas/bebida-arroz_tm1tib.png",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637454298/guappjolotas/bebidas/B-CHAMPURRADO_k9fxcd.svg",
             "inv": 200,
             "category": "bebidas",
             "id": 7
@@ -66,7 +66,7 @@
         {
             "type": "Chocolate Caliente",
             "price": 12,
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637453512/guappjolotas/bebidas/bebida-chocolate_vo4and.png",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637454298/guappjolotas/bebidas/B-CHOCOLATE_zsimzb.svg",
             "inv": 200,
             "category": "bebidas",
             "id": 8
@@ -74,7 +74,7 @@
         {
             "type": "Café Negro",
             "price": 12,
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637453512/guappjolotas/bebidas/bebida-cafe_lzblvj.png",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637454298/guappjolotas/bebidas/B-CAFE_jmwqmj.svg",
             "inv": 200,
             "category": "bebidas",
             "id": 9
@@ -84,7 +84,7 @@
         {
             "type": "Tamal Verde",
             "price": 14,
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836850/guappjolotas/tamales/Property_1_verde_dzoslw.svg",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637454368/guappjolotas/tamales/T-VERDE_zrcou8.svg",
             "inv": 200,
             "category": "tamales",
             "id": 10
@@ -92,7 +92,7 @@
         {
             "type": "Tamal de Mole",
             "price": 14,
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836853/guappjolotas/tamales/Property_1_mole_knzh0s.svg",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637454368/guappjolotas/tamales/T-MOLE_oj0ydy.svg",
             "inv": 200,
             "category": "tamales",
             "id": 11
@@ -100,7 +100,7 @@
         {
             "type": "Tamal de Guayaba",
             "price": 14,
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836851/guappjolotas/tamales/Property_1_guayaba_vc8ipp.svg",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637454369/guappjolotas/tamales/TD-GUAYABA_ydkbpm.svg",
             "inv": 200,
             "category": "tamales",
             "id": 12
@@ -108,7 +108,7 @@
         {
             "type": "Tamal de Piña",
             "price": 14,
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836853/guappjolotas/tamales/Property_1_pin%CC%83a_yi5o93.svg",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637454368/guappjolotas/tamales/TD-PI%C3%91A_qasacr.svg",
             "inv": 200,
             "category": "tamales",
             "id": 13
@@ -116,7 +116,7 @@
         {
             "type": "Tamal de Pasas",
             "price": 14,
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836850/guappjolotas/tamales/Property_1_pasas_cleaq2.svg",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637454368/guappjolotas/tamales/TD-PASAS_o6ggud.svg",
             "inv": 200,
             "category": "tamales",
             "id": 14
