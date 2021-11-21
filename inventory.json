@@ -4,7 +4,7 @@
             "type": "Verde",
             "price": 25,
             "fullType": "Guajolota de Tamal Verde",
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836844/guappjolotas/guajolotas/Property_1_verde_jhwa2d.svg",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637453396/guappjolotas/guajolotas/guajolota-verde_fjodzp.png",
             "inv": 200,
             "category": "guajolotas",
             "id": 1
@@ -13,7 +13,7 @@
             "type": "Mole",
             "price": 25,
             "fullType": "Guajolota de Tamal de Mole",
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836846/guappjolotas/guajolotas/Property_1_mole_anxxww.svg",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637453396/guappjolotas/guajolotas/guajolota-mole_z8zsge.png",
             "inv": 200,
             "category": "guajolotas",
             "id": 2
@@ -22,7 +22,7 @@
             "type": "Guayaba",
             "price": 25,
             "fullType": "Guajolota de Tamal de Guayaba",
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836846/guappjolotas/guajolotas/Property_1_guayaba_z9xdpi.svg",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637453397/guappjolotas/guajolotas/guajolota-guayaba_wiftzv.png",
             "inv": 200,
             "category": "guajolotas",
             "id": 3
@@ -31,7 +31,7 @@
             "type": "Piña",
             "price": 25,
             "fullType": "Guajolota de Tamal de Piña",
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836847/guappjolotas/guajolotas/Property_1_pin%CC%83a_kmzvvs.svg",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637453396/guappjolotas/guajolotas/guajolota-pi%C3%B1a_nmiv4f.png",
             "inv": 200,
             "category": "guajolotas",
             "id": 4
@@ -40,7 +40,7 @@
             "type": "Pasas",
             "price": 25,
             "fullType": "Guajolota de Tamal de Pasas",
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836844/guappjolotas/guajolotas/Property_1_pasas_muc5vc.svg",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637453396/guappjolotas/guajolotas/guajolota-pasas_giysdq.png",
             "inv": 200,
             "category": "guajolotas",
             "id": 5
@@ -50,7 +50,7 @@
         {
             "type": "Champurrado",
             "price": 12,
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836844/guappjolotas/bebidas/Property_1_champurrado_a3bztk.svg",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637453512/guappjolotas/bebidas/bebida-champurrado_vw5ljc.png",
             "inv": 200,
             "category": "bebidas",
             "id": 6
@@ -58,7 +58,7 @@
         {
             "type": "Atole de Arroz con Leche",
             "price": 12,
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836844/guappjolotas/bebidas/Property_1_arroz_oeamqy.svg",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637453512/guappjolotas/bebidas/bebida-arroz_tm1tib.png",
             "inv": 200,
             "category": "bebidas",
             "id": 7
@@ -66,7 +66,7 @@
         {
             "type": "Chocolate Caliente",
             "price": 12,
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836844/guappjolotas/bebidas/Property_1_chocolate_bsefhs.svg",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637453512/guappjolotas/bebidas/bebida-chocolate_vo4and.png",
             "inv": 200,
             "category": "bebidas",
             "id": 8
@@ -74,7 +74,7 @@
         {
             "type": "Café Negro",
             "price": 12,
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836844/guappjolotas/bebidas/Property_1_cafe_gy7jnv.svg",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637453512/guappjolotas/bebidas/bebida-cafe_lzblvj.png",
             "inv": 200,
             "category": "bebidas",
             "id": 9
