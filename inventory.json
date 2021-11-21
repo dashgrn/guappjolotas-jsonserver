@@ -7,7 +7,8 @@
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460299/guappjolotas/guajolotas/Property_1_verde_d6wtfk.svg",
             "inv": 200,
             "category": "guajolotas",
-            "id": 1
+            "id": 1,
+            "flavor": "verde"
         },
         {
             "type": "Mole",
@@ -16,7 +17,8 @@
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460299/guappjolotas/guajolotas/Property_1_mole_sg84fi.svg",
             "inv": 200,
             "category": "guajolotas",
-            "id": 2
+            "id": 2,
+            "flavor": "mole"
         },
         {
             "type": "Rajas",
@@ -25,7 +27,8 @@
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460140/guappjolotas/guajolotas/G-RAJAS_aoerlp.svg",
             "inv": 200,
             "category": "guajolotas",
-            "id": 3
+            "id": 3,
+            "flavor": "rajas"
         },
         {
             "type": "Guayaba",
@@ -34,7 +37,8 @@
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460298/guappjolotas/guajolotas/Property_1_guayaba_tiwizy.svg",
             "inv": 200,
             "category": "guajolotas",
-            "id": 4
+            "id": 4,
+            "flavor": "guayaba"
         },
         {
             "type": "Piña",
@@ -43,7 +47,8 @@
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460299/guappjolotas/guajolotas/Property_1_pi%C3%B1a_v1caoo.svg",
             "inv": 200,
             "category": "guajolotas",
-            "id": 5
+            "id": 5,
+            "flavor": "piña"
         },
         {
             "type": "Pasas",
@@ -52,7 +57,8 @@
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460299/guappjolotas/guajolotas/Property_1_pasas_w4j0ho.svg",
             "inv": 200,
             "category": "guajolotas",
-            "id": 6
+            "id": 6,
+            "flavor": "pasas"
         }
     ],
     "bebidas": [
@@ -96,7 +102,8 @@
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460332/guappjolotas/tamales/Property_1_verde_echcv3.svg",
             "inv": 200,
             "category": "tamales",
-            "id": 11
+            "id": 11,
+            "flavor": "verde"
         },
         {
             "type": "Tamal de Mole",
@@ -104,7 +111,8 @@
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460331/guappjolotas/tamales/Property_1_mole_wz8pmw.svg",
             "inv": 200,
             "category": "tamales",
-            "id": 12
+            "id": 12,
+            "flavor": "mole"
         },
         {
             "type": "Tamal de Rajas",
@@ -112,7 +120,8 @@
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460332/guappjolotas/tamales/Property_1_guayaba_na0omt.svg",
             "inv": 200,
             "category": "tamales",
-            "id": 13
+            "id": 13,
+            "flavor": "rajas"
         },
         {
             "type": "Tamal de Guayaba",
@@ -120,7 +129,8 @@
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460332/guappjolotas/tamales/Property_1_guayaba_na0omt.svg",
             "inv": 200,
             "category": "tamales",
-            "id": 14
+            "id": 14,
+            "flavor": "guayaba"
         },
         {
             "type": "Tamal de Piña",
@@ -128,7 +138,8 @@
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460332/guappjolotas/tamales/Property_1_pi%C3%B1a_i4ruyp.svg",
             "inv": 200,
             "category": "tamales",
-            "id": 15
+            "id": 15,
+            "flavor": "piña"
         },
         {
             "type": "Tamal de Pasas",
@@ -136,60 +147,61 @@
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460332/guappjolotas/tamales/Property_1_pasas_vcynf2.svg",
             "inv": 200,
             "category": "tamales",
-            "id": 16
+            "id": 16,
+            "flavor": "pasas"
         }
     ],
     "sabores": [
         {
-            "sabor": "Verde",
+            "sabor": "verde",
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836847/guappjolotas/sabores/Property_1_verde_mek95v.svg",
             "id": 17
         },
         {
-            "sabor": "Mole",
+            "sabor": "mole",
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836849/guappjolotas/sabores/Property_1_mole_fuheii.svg"
             ,
             "id": 18
         },
         {
-            "sabor": "Rajas",
+            "sabor": "rajas",
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836848/guappjolotas/sabores/Property_1_rajas_xsqby1.svg",
             "id": 19
         },
         {
-            "sabor": "Piña",
+            "sabor": "piña",
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836849/guappjolotas/sabores/Property_1_pin%CC%83a_tnbgcd.svg",
             "id": 20
         },
         {
-            "sabor": "Pasas",
+            "sabor": "pasas",
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836847/guappjolotas/sabores/Property_1_pasas_r0ajpd.svg",
             "id": 21
         },
         {
-            "sabor": "Guayaba",
+            "sabor": "guayaba",
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836847/guappjolotas/sabores/Property_1_guayaba_zawndi.svg",
             "id": 22
         }
     ],
     "saboresBebidas": [
         {
-            "sabor": "Champurrado",
+            "sabor": "champurrado",
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836850/guappjolotas/sabores/Property_1_champurrado_bcpsce.svg",
             "id": 23
         },
         {
-            "sabor": "Arroz con Leche",
+            "sabor": "arroz",
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836848/guappjolotas/sabores/Property_1_arroz_con_leche_yrpuio.svg",
             "id": 24
         },
         {
-            "sabor": "Chocolate",
+            "sabor": "chocolate",
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836850/guappjolotas/sabores/Property_1_chocolate_jrgqlu.svg",
             "id": 25
         },
         {
-            "sabor": "Café",
+            "sabor": "café",
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836851/guappjolotas/sabores/Property_1_cafe_sd0psv.svg",
             "id": 26
         }
