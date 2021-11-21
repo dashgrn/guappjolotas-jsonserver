@@ -4,7 +4,7 @@
             "type": "Verde",
             "price": 25,
             "fullType": "Guajolota de Tamal Verde",
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637454329/guappjolotas/guajolotas/G-VERDE_eamtlq.svg",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637455779/guappjolotas/guajolotas/G-VERDE_sxs8sk.svg",
             "inv": 200,
             "category": "guajolotas",
             "id": 1
@@ -50,7 +50,7 @@
         {
             "type": "Champurrado",
             "price": 12,
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637453512/guappjolotas/bebidas/bebida-champurrado_vw5ljc.png",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637455956/guappjolotas/bebidas/Property_1_champurrado_x2atri.svg",
             "inv": 200,
             "category": "bebidas",
             "id": 6
@@ -58,7 +58,7 @@
         {
             "type": "Atole de Arroz con Leche",
             "price": 12,
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637454298/guappjolotas/bebidas/B-CHAMPURRADO_k9fxcd.svg",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637455956/guappjolotas/bebidas/Property_1_arroz_twhr6o.svg",
             "inv": 200,
             "category": "bebidas",
             "id": 7
@@ -66,7 +66,7 @@
         {
             "type": "Chocolate Caliente",
             "price": 12,
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637454298/guappjolotas/bebidas/B-CHOCOLATE_zsimzb.svg",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637455956/guappjolotas/bebidas/Property_1_chocolate_vuzaoq.svg",
             "inv": 200,
             "category": "bebidas",
             "id": 8
@@ -74,7 +74,7 @@
         {
             "type": "Café Negro",
             "price": 12,
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637454298/guappjolotas/bebidas/B-CAFE_jmwqmj.svg",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637455956/guappjolotas/bebidas/Property_1_cafe_g5ribb.svg",
             "inv": 200,
             "category": "bebidas",
             "id": 9
