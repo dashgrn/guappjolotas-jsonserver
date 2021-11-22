@@ -223,5 +223,157 @@
             "qty": 2,
             "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836844/guappjolotas/bebidas/Property_1_champurrado_a3bztk.svg"
         }
+    ],
+    "allproducts": [
+        {
+            "type": "Verde",
+            "price": 25,
+            "fullType": "Guajolota de Tamal Verde",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460299/guappjolotas/guajolotas/Property_1_verde_d6wtfk.svg",
+            "inv": 200,
+            "category": "guajolotas",
+            "id": 1,
+            "flavor": "verde"
+        },
+        {
+            "type": "Mole",
+            "price": 25,
+            "fullType": "Guajolota de Tamal de Mole",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460299/guappjolotas/guajolotas/Property_1_mole_sg84fi.svg",
+            "inv": 200,
+            "category": "guajolotas",
+            "id": 2,
+            "flavor": "mole"
+        },
+        {
+            "type": "Rajas",
+            "price": 25,
+            "fullType": "Guajolota de Tamal de Guayaba",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460140/guappjolotas/guajolotas/G-RAJAS_aoerlp.svg",
+            "inv": 200,
+            "category": "guajolotas",
+            "id": 3,
+            "flavor": "rajas"
+        },
+        {
+            "type": "Guayaba",
+            "price": 25,
+            "fullType": "Guajolota de Tamal de Guayaba",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460298/guappjolotas/guajolotas/Property_1_guayaba_tiwizy.svg",
+            "inv": 200,
+            "category": "guajolotas",
+            "id": 4,
+            "flavor": "guayaba"
+        },
+        {
+            "type": "Piña",
+            "price": 25,
+            "fullType": "Guajolota de Tamal de Piña",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460299/guappjolotas/guajolotas/Property_1_pi%C3%B1a_v1caoo.svg",
+            "inv": 200,
+            "category": "guajolotas",
+            "id": 5,
+            "flavor": "piña"
+        },
+        {
+            "type": "Pasas",
+            "price": 25,
+            "fullType": "Guajolota de Tamal de Pasas",
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460299/guappjolotas/guajolotas/Property_1_pasas_w4j0ho.svg",
+            "inv": 200,
+            "category": "guajolotas",
+            "id": 6,
+            "flavor": "pasas"
+        },
+        {
+            "type": "Champurrado",
+            "price": 12,
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637455956/guappjolotas/bebidas/Property_1_champurrado_x2atri.svg",
+            "inv": 200,
+            "category": "bebidas",
+            "id": 7,
+            "flavor": "champurrado"
+        },
+        {
+            "type": "Atole de Arroz",
+            "price": 12,
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637455956/guappjolotas/bebidas/Property_1_arroz_twhr6o.svg",
+            "inv": 200,
+            "category": "bebidas",
+            "id": 8,
+            "flavor": "arroz"
+        },
+        {
+            "type": "Chocolate Caliente",
+            "price": 12,
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637455956/guappjolotas/bebidas/Property_1_chocolate_vuzaoq.svg",
+            "inv": 200,
+            "category": "bebidas",
+            "id": 9,
+            "flavor": "chocolate"
+        },
+        {
+            "type": "Café Negro",
+            "price": 12,
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637455956/guappjolotas/bebidas/Property_1_cafe_g5ribb.svg",
+            "inv": 200,
+            "category": "bebidas",
+            "id": 10,
+            "flavor": "cafe"
+        },
+        {
+            "type": "Tamal Verde",
+            "price": 14,
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460332/guappjolotas/tamales/Property_1_verde_echcv3.svg",
+            "inv": 200,
+            "category": "tamales",
+            "id": 11,
+            "flavor": "verde"
+        },
+        {
+            "type": "Tamal de Mole",
+            "price": 14,
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460331/guappjolotas/tamales/Property_1_mole_wz8pmw.svg",
+            "inv": 200,
+            "category": "tamales",
+            "id": 12,
+            "flavor": "mole"
+        },
+        {
+            "type": "Tamal de Rajas",
+            "price": 14,
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460332/guappjolotas/tamales/Property_1_guayaba_na0omt.svg",
+            "inv": 200,
+            "category": "tamales",
+            "id": 13,
+            "flavor": "rajas"
+        },
+        {
+            "type": "Tamal de Guayaba",
+            "price": 14,
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460332/guappjolotas/tamales/Property_1_guayaba_na0omt.svg",
+            "inv": 200,
+            "category": "tamales",
+            "id": 14,
+            "flavor": "guayaba"
+        },
+        {
+            "type": "Tamal de Piña",
+            "price": 14,
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460332/guappjolotas/tamales/Property_1_pi%C3%B1a_i4ruyp.svg",
+            "inv": 200,
+            "category": "tamales",
+            "id": 15,
+            "flavor": "piña"
+        },
+        {
+            "type": "Tamal de Pasas",
+            "price": 14,
+            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1637460332/guappjolotas/tamales/Property_1_pasas_vcynf2.svg",
+            "inv": 200,
+            "category": "tamales",
+            "id": 16,
+            "flavor": "pasas"
+        }
     ]
 }
