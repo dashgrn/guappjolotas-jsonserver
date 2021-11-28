@@ -211,18 +211,7 @@
         }
     ],
     "cart": [
-        {
-            "type": "ProdTest",
-            "price": 20,
-            "qty": 2,
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836844/guappjolotas/bebidas/Property_1_champurrado_a3bztk.svg"
-        },
-        {
-            "type": "ProdTest2",
-            "price": 20,
-            "qty": 2,
-            "img": "https://res.cloudinary.com/diqhctpcx/image/upload/v1636836844/guappjolotas/bebidas/Property_1_champurrado_a3bztk.svg"
-        }
+        
     ],
     "allproducts": [
         {
